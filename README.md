@@ -108,7 +108,7 @@ These files are located in the `tmp/deploy/images/qemuarm/` directory.
 
 ### "No Space Left on Device" Error (ENOSPC)
 
-put your link
+![Screenshot from 2024-10-09 16-41-02](https://github.com/user-attachments/assets/424e7a62-922d-4690-ac1b-44e8e5cb7de9)
 
 If you encounter an error similar to:
 
@@ -124,7 +124,7 @@ This indicates a lack of available disk space. To resolve this:
 
 ### Common Build Errors
 
-put you link here
+![Screenshot from 2024-10-10 16-05-31](https://github.com/user-attachments/assets/6c35c4c9-8d10-431e-91b1-10806c3e4f17)
 
 - **BB_NUMBER_THREADS** and **PARALLEL_MAKE** should match your CPU core count for faster builds.
 - Ensure you have sufficient disk space (at least **50 GB** is recommended).
