@@ -139,8 +139,8 @@ bitbake core-image-sato
 
 For more information on Yocto and Bitbake, refer to the following resources:
 
-- [Yocto Project Quick Start Guide](https://www.yoctoproject.org/docs/current/brief-yoctoprojectqs/brief-yoctoprojectqs.html)
-- [Bitbake User Manual](https://www.yoctoproject.org/docs/current/bitbake-user-manual/bitbake-user-manual.html)
+- [Yocto Project Quick Start Guide]([https://www.yoctoproject.org/docs/current/brief-yoctoprojectqs/brief-yoctoprojectqs.html](https://docs.yoctoproject.org/bitbake/))
+- [Bitbake User Manual]([https://www.yoctoproject.org/docs/current/bitbake-user-manual/bitbake-user-manual.html](https://docs.yoctoproject.org/bitbake/))
 
 ## Contribution
 feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
