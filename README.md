@@ -143,7 +143,7 @@ For more information on Yocto and Bitbake, refer to the following resources:
 - [Bitbake User Manual](https://www.yoctoproject.org/docs/current/bitbake-user-manual/bitbake-user-manual.html)
 
 ## Contribution
-If you would like to contribute to myls, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 (mahamedhamam15@gmail.com)
